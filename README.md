@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at "PT Wajah Siba Nusantara"<br>👯 I’m looking to collaborate on Laravel Realtime Data Management<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Flutter<br>💬 Ask me about something about code<br>⚡ Fun fact : If you reverse code, it will be edoc. Just it
+🔭 I’m currently freelance as WordPress Theme Developer<br>👯 I’m looking to collaborate on Laravel Realtime Data Management<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning Flutter<br>💬 Ask me about something about code<br>⚡ Fun fact : If you reverse code, it will be edoc. Just it
 
 
 ## 🌐 Socials:
